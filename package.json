@@ -1,0 +1,25 @@
+{
+  "name": "jisx0410",
+  "version": "1.0.0",
+  "description": "JIS X 0410 Utility",
+  "main": "jisx0410.js",
+  "scripts": {
+    "test": "tape"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frogcat/jisx0410.git"
+  },
+  "keywords": [
+    "jisx0410"
+  ],
+  "author": "frogcat",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/frogcat/jisx0410/issues"
+  },
+  "homepage": "https://github.com/frogcat/jisx0410#readme",
+  "devDependencies": {
+    "tape": "^4.13.0"
+  }
+}
