@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/frogcat/jisx0410#readme",
   "devDependencies": {
-    "tape": "^4.13.0"
+    "tape": "^4.13.2"
   }
 }
